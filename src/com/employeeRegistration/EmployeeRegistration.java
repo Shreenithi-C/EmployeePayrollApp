@@ -1,10 +1,5 @@
 package com.employeeRegistration;
 
-/* 
- @author developer
- @version 1.0
- */
-
 import java.util.*;
 import java.io.IOException;
 
