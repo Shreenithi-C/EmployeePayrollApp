@@ -1,5 +1,8 @@
 package com.inputValidation;
-
+/*
+@author developer
+@version 6.0
+*/
 import java.util.Scanner;
 
 public class UCsixInputValidation {
