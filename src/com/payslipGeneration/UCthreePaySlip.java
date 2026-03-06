@@ -1,7 +1,10 @@
 package com.payslipGeneration;
 
 import java.util.Scanner;
-
+/*
+@author developer
+@version 3.0
+*/
 public class UCthreePaySlip {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
