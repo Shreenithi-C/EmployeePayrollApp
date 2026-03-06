@@ -28,10 +28,10 @@ public class UCsixInputValidation {
             String password = sc.nextLine();
             ValidationService.validatePassword(password);
 
-            System.out.println("\n✅ All inputs are VALID. Registration/Login can proceed.");
+            System.out.println("\n All inputs are VALID. Registration/Login can proceed.");
 
         } catch (ValidationException ex) {
-            System.out.println("\n❌ Validation Failed:");
+            System.out.println("\n Validation Failed:");
             System.out.println(ex.getMessage());
         }
     }
